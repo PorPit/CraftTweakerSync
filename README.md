@@ -7,8 +7,6 @@ support minecraft version：1.12.2
 
 支持游戏版本： 1.12.2
 
-master分支:1.10.2
-
 Contacts|联系方式:<br/>
 
 EMail:692066768@qq.com
